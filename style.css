@@ -15,7 +15,7 @@
   color: black;
 }
 
-.odai2 {
+header {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -23,21 +23,21 @@
   margin-top: 3%;
   width: fit-content;
 }
-.odai3 {
+section {
   display: inline;
   margin-left: 180px;
   align-items: flex-end;
   margin-top: 100px;
   position: sticky;
 }
-.odai4 {
+main {
   width: auto;
   height: auto;
   margin: 20px;
   position: relative;
 }
 
-.odai5 {
+p {
   position: sticky;
   background-color: lightblue;
   width: 110px;
@@ -45,7 +45,7 @@
   overflow: scroll;
 }
 
-.mhmd {
+footer {
   background-color: #333;
   text-align: center;
   height: 100px;
